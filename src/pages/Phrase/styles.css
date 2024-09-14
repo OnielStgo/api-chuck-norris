@@ -1,0 +1,9 @@
+.phrase-page {
+  text-align: center;
+}
+
+.phrase {
+  padding-top: 40px;
+  font-size: 20px;
+  font-family: monospace;
+}

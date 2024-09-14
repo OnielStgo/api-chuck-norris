@@ -1,0 +1,22 @@
+
+.home-page {
+  /* display: flex; */
+  justify-content: center;
+  flex-direction: column;
+  justify-items: center;
+  text-align: center;
+}
+
+.btn-chuck {
+  width: 80px;
+  height: 50px;
+  border-radius: 15px;
+  margin-top: 40px;
+
+}
+
+.img-chuck {
+  width: 80%; 
+  height: auto; 
+
+}
